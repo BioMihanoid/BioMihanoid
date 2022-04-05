@@ -4,4 +4,4 @@
 
 <h1 align="center"><img src="https://github-profile-trophy.vercel.app/?username=BioMihanoid&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy"/></h1>
 
-<h1 align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)</h1>
+<h1 align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BioMihanoid)](https://git.io/streak-stats"/></h1>
