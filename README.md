@@ -10,7 +10,7 @@
 </p>
 ## 📘 My top open source projects
 <p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=bioMihanoid&repo=RussianHub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/BioMihanoid/RussianHub"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=bioMihanoid&repo=RussianHub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="BioMihanoid/RussianHub"></a>
 </p>
 
 <p align="left">
