@@ -10,12 +10,6 @@
 </p>
 ## 📘 My top open source projects
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="left">
-  <a href="https://github.com/BioMihanoid/RussianHub"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="RussianHub"></a>
-</p>
-
 <p align="left">
   <a href="https://github.com/BioMihanoid?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://github-readme-stats.vercel.app/api/pin/?username=BioMihanoid&repo=https://github.com/BioMihanoid/RussianHub"/></a>
 </p>
