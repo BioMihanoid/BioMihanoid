@@ -8,6 +8,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=8508F7&lines=C%23+beginner+programmer+from+Russia;Always+learning+new+things">
   </a>
 </p>
+## 📘 My top open source projects
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<p align="left">
+  
+</p>
+
+<p align="left">
+  <a href="https://github.com/BioMihanoid?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 ## 🔥 Streak stats
 
