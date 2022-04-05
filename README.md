@@ -19,7 +19,7 @@
 </p>
 
 ## Codewars
-<p align="center">
+<p align="left">
   <img alt="Codewars img" src="https://www.codewars.com/users/BioMihanoid/badges/large"/>
 </p>
 
