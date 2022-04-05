@@ -1,6 +1,11 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/bioMihanoid" target="_blank">Mikhail</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">C# beginning programmer from Russia</h3>
+<h3 align="center">Hi there, I'm <a href="https://t.me/bioMihanoid" target="_blank">Mikhail</a>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=8508F7&lines=C%23+beginning+programmer+from+Russia"></a>
+</p>
 
 ## 🔥 Streak stats
 
