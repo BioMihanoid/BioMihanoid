@@ -18,7 +18,7 @@
   <a href="https://github.com/BioMihanoid?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## Codewars
+## 🎯 Codewars
 <p align="left">
   <img alt="Codewars img" src="https://www.codewars.com/users/BioMihanoid/badges/large"/>
 </p>
