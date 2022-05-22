@@ -18,6 +18,9 @@
   <a href="https://github.com/BioMihanoid?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+## 👜 School 42/Ecole 21
+[![gmilan's 42 stats](https://badge42.vercel.app/api/v2/cl3gkydd3003909l6e9zcbgn1/stats?cursusId=21&coalitionId=91)](https://github.com/JaeSeoKim/badge42)
+
 ## 🎯 Codewars
 <p align="left">
   <img alt="Codewars img" src="https://www.codewars.com/users/BioMihanoid/badges/large"/>
