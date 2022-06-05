@@ -13,6 +13,9 @@
 <p align="left">
   <a href="https://github.com/BioMihanoid/RussianHub"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=bioMihanoid&repo=RussianHub&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="BioMihanoid/RussianHub"></a>
 </p>
+<p>
+  <a href="https://github.com/njajkes/FTMstBot"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=njajkes&repo=FTMstBot&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="BioMihanoid/FTMstBot">
+  </p>
 
 <p align="left">
   <a href="https://github.com/BioMihanoid?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
